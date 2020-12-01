@@ -1,0 +1,8 @@
+*.DS_Store
+*.sublime-workspace
+*.code-workspace
+.vscode/*
+build/*
+dist/*
+*.egg-info/*
+__pycache__
